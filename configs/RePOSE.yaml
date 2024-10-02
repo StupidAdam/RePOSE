@@ -1,0 +1,8 @@
+# Configuration
+synthetic: False
+flip: True
+data_root: data/
+rootrel: False
+num_joints: 17
+no_conf: False
+gt_2d: False
