@@ -53,7 +53,7 @@ data/
 
 ## Evaluation
 
-The weight of our model can be downloaded [here](https://1drv.ms/u/c/e463a6dc4da8a598/Ee_2p5w1qmNAlP-YBRtGqdQB6PBCdnh8oPyShoNZOvdgfw). To evaluate our model on Human3.6M, please run:
+The weight of our model can be downloaded [here](https://1drv.ms/u/c/e463a6dc4da8a598/Ee_2p5w1qmNAlP-YBRtGqdQB6PBCdnh8oPyShoNZOvdgfw). To evaluate our model on Human3.6M, please download the weight and put it into `checkpoints/` directory and run:
 
 ```bash
 python evaluate.py
